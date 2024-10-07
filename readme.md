@@ -28,7 +28,7 @@ The preprocessing involves several key steps to optimize the data:
 - **Logistic Regression**: Implemented with `LogisticRegression`, optimizing for the regularization strength and solver type.
 - **Gaussian Naive Bayes**: Uses `GaussianNB`, suitable for distributions in the dataset and requires no configuration.
 ### Comparison
-![Comparison]()
+![Comparison](https://github.com/ZiadAssem/Breast-Cancer-Prediction/blob/main/Comparisons.png)
 
 ## Libraries Used
 
